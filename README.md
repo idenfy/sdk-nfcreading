@@ -1,2 +1,2 @@
-# sdk-docrecognition
-Android iDenfy Document Recognition SDK
+# sdk-nfcreading
+Android iDenfy NFC Reading SDK
