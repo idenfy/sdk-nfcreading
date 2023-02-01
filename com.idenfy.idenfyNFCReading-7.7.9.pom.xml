@@ -6,6 +6,21 @@
   <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
+  <build>
+   <plugins>
+      <plugin>
+         <groupId>com.simpligility.maven.plugins</groupId>
+         <artifactId>android-maven-plugin</artifactId>
+         <version>4.1.0</version>
+         <extensions>true</extensions>
+         <configuration>
+            <sign>
+               <debug>false</debug>
+            </sign>
+         </configuration>
+      </plugin>
+   </plugins>
+</build>
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfyNFCReading</groupId>
   <artifactId>com.idenfy.idenfyNFCReading</artifactId>
