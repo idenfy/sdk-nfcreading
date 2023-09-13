@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=com.idenfy.idenfyNFCReading-8.1.9.aar"
-  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyNFCReading -Dversion=8.1.9 -DpomFile=com.idenfy.idenfyNFCReading-8.1.9.pom
+  - FILE="-Dfile=com.idenfy.idenfyNFCReading-8.1.7.1.aar"
+  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyNFCReading -Dversion=8.1.7.1 -DpomFile=com.idenfy.idenfyNFCReading-8.1.7.1.pom
