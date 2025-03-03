@@ -24,7 +24,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfyNFCReading</groupId>
   <artifactId>com.idenfy.idenfyNFCReading</artifactId>
-  <version>8.6.1</version>
+  <version>8.6.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -90,7 +90,7 @@
     <dependency>
       <groupId>com.github.idenfy</groupId>
       <artifactId>sdk-api</artifactId>
-      <version>8.6.1</version>
+      <version>8.6.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
